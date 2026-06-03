@@ -12,4 +12,3 @@
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> qande qilib private commitlardagi natijalarni ham olsam boladi sabibi men typscripda ham yozganman
