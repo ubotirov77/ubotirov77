@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Botirov, a Full-Stack Developer from Uzbekistan 🇺🇿<br>currently studying in South Korea 🇰🇷.<br><br>
+<br>I'm Norman, a Full-Stack Developer from Uzbekistan 🇺🇿<br>currently studying in South Korea 🇰🇷.<br><br>
 
 
 # 💻 Tech Stack:
