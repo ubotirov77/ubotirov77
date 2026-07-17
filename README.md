@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="ubotirov77's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 <br>I'm Norman, a Full-Stack Developer from Uzbekistan 🇺🇿<br>currently studying in South Korea 🇰🇷.<br><br>
 
@@ -10,5 +16,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ubotirov77&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
-
