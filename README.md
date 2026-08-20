@@ -40,9 +40,9 @@ currently studying in South Korea 🇰🇷.<br>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-flame-one-74.vercel.app/api?username=ubotirov77&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=ubotirov77&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-<br/>
+
 
 ![](https://streak-stats.demolab.com/?user=ubotirov77&theme=highcontrast&hide_border=false)
 
